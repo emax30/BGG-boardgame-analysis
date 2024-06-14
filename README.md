@@ -1,2 +1,2 @@
 # BGG-boardgame-analysis
-Analysis of the top-5000 boardgames according to Boardgamegeek.com (BGG).
+Exploratory Analysis of the Boardgamegeek.com Top-5000 Boardgames.
