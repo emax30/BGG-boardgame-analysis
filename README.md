@@ -29,7 +29,6 @@ Board game names, ratings, weights, and several other features were scraped usin
 **8. Finally, looking at the most common board game categories from pre-1980 to the 2020s reveals the decline in popularity of wargames and the rise of fantasy and, more recently, dice games.**
 ![Image 8](plots/bgg8.png)
 
-
-
+I also ran linear regression (using ElasticNet regularization) and random forest regressor models to determine which features most significantly affect a game's Bayes average rating. Both models confirmed that weight positively impacts the rating, as observed in the correlation matrix. Additionally, certain mechanics, such as 'End Game Bonuses', 'Variable Set-up', 'Tech Trees', and 'Hand Management', were found to have a positive effect. In contrast, board game categories had a less pronounced impact on the rating compared to mechanics.
 
 
