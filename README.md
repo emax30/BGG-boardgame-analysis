@@ -11,7 +11,7 @@ Board game names, ratings, weights + several other features were scraped using t
 
 ![Image 2](plots/bgg2.png)
 
-**3. A correlation matrix shows a positive correlation between game weight and its average rating/Bayes average rating (which accounts for the number of users who rated the game penalizing the games with few ratings).**
+**3. A correlation matrix shows a positive correlation between game weight and its average rating/Bayes average rating (the latter accounts for the number of users who rated the game penalizing the games with few ratings).**
 
 ![Image 3](plots/bgg3.png)
 
